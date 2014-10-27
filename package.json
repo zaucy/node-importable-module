@@ -1,0 +1,23 @@
+{
+  "name": "importable-module",
+  "version": "1.0.0",
+  "description": "Gives a constructor for an ImportableModule",
+  "main": "lib/importable-module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saucy/node-importable-module.git"
+  },
+  "keywords": [
+    "importable",
+    "module"
+  ],
+  "author": "Ezekiel Warren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saucy/node-importable-module/issues"
+  },
+  "homepage": "https://github.com/saucy/node-importable-module"
+}
